@@ -1,3 +1,6 @@
 public class Main {
-    System.out.println("Ciao");
+
+    public void test() {
+        System.out.println("Ciao");
+    }
 }
